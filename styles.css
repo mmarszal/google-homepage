@@ -1,0 +1,17 @@
+.middle {
+    width: 100%;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.middle-form {
+    text-align: center;
+    display: block;
+}
+
+.form-buttons {
+    margin: 10px;
+}
